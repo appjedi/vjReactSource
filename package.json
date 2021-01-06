@@ -1,0 +1,53 @@
+{
+  "name": "app-dev-1",
+  "version": "0.1.0",
+  "private": true,
+	"dependencies": {
+		"axios": "^0.19.2",
+		"chart.js": "2.7.3",
+		"classnames": "2.2.6",
+		"headroom.js": "0.9.4",
+		"jquery": "^3.5.0",
+		"moment": "2.24.0",
+		"node-sass": "^4.14.1",
+		"nouislider": "13.1.1",
+		"perfect-scrollbar": "1.4.0",
+		"react": "16.8.3",
+		"react-bootstrap-switch": "15.5.3",
+		"react-chartjs-2": "2.7.4",
+		"react-datetime": "2.16.3",
+		"react-dom": "16.8.3",
+		"react-google-maps": "9.4.5",
+		"react-router-dom": "^4.3.1",
+		"react-scripts": "2.1.5",
+		"react-select": "2.4.3",
+		"react-slick": "0.24.0",
+		"react-tagsinput": "3.19.0",
+		"reactstrap": "7.1.0",
+		"sync-request": "^6.1.0"
+	},
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
